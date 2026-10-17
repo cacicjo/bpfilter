@@ -1,3 +1,5 @@
+TEST
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="doc/_static/logo-dark-mode.png">
